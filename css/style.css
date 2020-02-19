@@ -1,3 +1,16 @@
-.h1{
+h1{
     text-align:center;
+}
+body{
+    background-image:url(https://www.youredm.com/wp-content/uploads/2015/12/edm-rave-crowd.jpg);
+    background-size:cover;
+}
+.lists {
+  display: flex;
+  justify-content:space-around;
+}
+img{
+    object-fit: cover;
+    width:200px;
+    height:200px;
 }
